@@ -64,3 +64,4 @@ node_modules/
 # dotenv environment variables file
 .env
 functions/util/socialape-6851e-firebase-adminsdk-97wkd-3bdf9bef97.json
+/functions/util/config.js
